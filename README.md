@@ -415,10 +415,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Karan Jogi**
+- Email: karanjogi2021@gmail.com
+- Role: AI/ML Developer
+- GitHub: [@KARAN-1309](https://github.com/KARAN-1309)
 
 ---
 
